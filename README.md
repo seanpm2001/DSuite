@@ -1,9 +1,16 @@
 
 ***
 
-# DSuite
 
-✉️🗓️♣️ DSuite is a online/offline software suite of productivity software for email and calendars. It is the parent of DCal/DCalendar and DMAIL
+<div align="center">
+  <img alt="DSuite wordmark failed to load. Click/tap here to attempt to view it" src="/DSuite_Wordmark_1080p_V1_HighCompression.png" width="256" class="center"/>
+</div>
+
+<div align="center">
+  <H1>DSuite</H1>
+  <p>✉️🗓️♣️ DSuite is a online/offline software suite of productivity software for email and calendars.</p>
+  <p>It is the parent of DCal/DCalendar and DMAIL</p>
+</div>
 
 ***
 
@@ -18,13 +25,33 @@
 
 ## Products
 
+### Calendar division
+
 [:octocat: `DCal (specification)`](https://github.com/seanpm2001/DCal/) -  DCal is an advanced calendar format that adds significant amounts of customization and control to digital calendars.
 
 - [:octocat: `DCalendar (Main reference implementation)`](https://github.com/seanpm2001/DCalendar/)
 
+### Email division
+
 [:octocat: `DMAIL`](https://github.com/seanpm2001/DMail/) - DMail (Digital Mail) is an open source, highly advanced email client. 
 
 - [:octocat: `Web client for SNU (2D Mode)`](https://github.com/seanpm2001/SNU_2D_DMailClient/)
+
+- [:octocat: `DMail Migration service`](https://github.com/seanpm2001/DMail_Migrator/)
+
+- [:octocat: `DMail TackleBox Implementation`](https://github.com/seanpm2001/DMail_Tacklebox/)
+
+[:octocat: `TackleBox`](https://github.com/seanpm2001/TackleBox_Email_Component/) - TackleBox is a phishing quarantine and detection tool
+
+- [:octocat: `TackleBox Email Component`](https://github.com/seanpm2001/TackleBox_Email_Component/)
+
+[:octocat: `SpamBox`](https://github.com/seanpm2001/SpamBox_Email_Component/) - SpamBox is a spam folder and spam detection tool
+
+- [:octocat: `SpamBox Email Component`](https://github.com/seanpm2001/SpamBox_Email_Component/)
+
+[:octocat: `Email Migration`](https://github.com/seanpm2001/Email_Migration_Component/) - An email migration component written in D.
+
+- [:octocat: `Email migration component`](https://github.com/seanpm2001/Email_Migration_Component/)
 
 ***
 
@@ -51,6 +78,80 @@ Redirect pages for this project
 
 ***
 
-**File version:** `1 (2023, Sunday, January 8th at 5:20 pm PST)`
+### File info
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `2 (2023, Sunday, January 15th at 3:59 pm PST)`
+
+**Line count (including blank lines and compiler line):** `158`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2023, Sunday, January 8th at 5:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the `Inspired by` section
+- [x] Added the `Products` section
+- [x] Added the `Redirects` section
+- - [x] Added the `DCal` subsection
+- - [x] Added the `DCalendar` subsection
+- - [x] Added the `DMAIL` subsection
+- - [x] Added the `DSuite` subsection
+- [x] Added the `File version` footer
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Sunday, January 15th at 3:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the title section
+- - [x] Added & centered the wordmark
+- - [x] Centered the title
+- - [x] Centered the lead section
+- [x] Updated the `Products` section
+- - [x] Added the `Calendar division` subsection
+- - [x] Added the `Email division` subsection
+- - [x] Added links to the DMail TackleBox, DMail SpamBox, DMail Migration Tool, TackleBox specification, SpamBox specification, and Migration Tool specification
+- [x] Removed the `File version` Footer in favor of the new _file info_ section
+- [x] Added the `file info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+</details>
+
+</details>
 
 ***
