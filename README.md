@@ -60,9 +60,11 @@
 
 - [:octocat: `Email migration component`](https://github.com/seanpm2001/Email_Migration_Component/)
 
+[`View project listing locally`](/PRODUCT_LIST.urll)
+
 ***
 
-### Languages
+## Languages
 
 Most DSuite projects are written in D. The following programming languages are used on the projects:
 
@@ -85,6 +87,30 @@ Planned languages:
 - JavaScript
 - PHP
 - Ruby
+
+***
+
+## Licensing
+
+All DSuite projects are licensed under the [`GNU General Public License (V3)`](/LICENSE.txt)
+
+***
+
+## Security
+
+The security policy for this project is incomplete. It can be found [`here`](/SECURITY.md)
+
+***
+
+## Citation
+
+Visit the [`CITATION.cff`](/CITATION.cff) file for detailed citation instructions.
+
+Transcript1:
+
+`This is Sean P. Myricks core repository for his DSuite series of software. This repository bundles them up into an article, and acts as a portal tool to pinpoint each individual project in the series. You can cite this repository if you want to cite the core repository and brand itself, but you need to navigate to the citable projects listed in the article in order to cite them individually or in bulk.`
+
+The citation file is not yet properly configured.
 
 ***
 
@@ -117,9 +143,9 @@ Redirect pages for this project
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Sunday, January 15th at 4:55 pm PST)`
+**File version:** `4 (2023, Sunday, January 15th at 5:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `213`
+**Line count (including blank lines and compiler line):** `259`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -185,7 +211,6 @@ Redirect pages for this project
 
 </details>
 
-
 <details><summary><p lang="en"><b>Version 3 (2023, Sunday, January 15th at 4:55 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -204,6 +229,27 @@ Redirect pages for this project
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Sunday, January 15th at 5:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Updated the `Products` section
+- - [x] Added a link to the local product list
+- [x] Added the `Licensing` section
+- [x] Added the `Security` section
+- [x] Added the `Citation` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
