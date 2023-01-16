@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (DSuite software core repository) please cite it as below. If you are looking to cite an individual repoisitory, continue reading."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DSuite core repostitory"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2023-01-08
+# Date the repository was created
+url: "https://github.com/seanpm2001/DSuite/"
+cff-version: 1.2.0
+message: "If you use this project (DSuite software core repository) please cite it as below. If you are looking to cite an individual repoisitory, continue reading."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DSuite core repository"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2023-01-15
+url: "https://github.com/seanpm2001/DSuite/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "DSuite core repository"
+  month: 1
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "This is Sean P. Myricks core repository for his DSuite series of software. This repository bundles them up into an article, and acts as a portal tool to pinpoint each individual project in the series. You can cite this repository if you want to cite the core repository and brand itself, but you need to navigate to the citable projects listed in the article in order to cite them individually or in bulk."
+  issue: 1
+  volume: 1
+  year: 2023
+# File info
+# File version: 1 (2023, Sunday, January 15th at 4:27 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
