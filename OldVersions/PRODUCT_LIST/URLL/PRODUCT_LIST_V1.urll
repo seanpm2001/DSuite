@@ -1,0 +1,37 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+
+//// DSuite product listing
+//// As of 2023, Sunday, January 15th
+
+https://github.com/seanpm2001/DCal/
+https://github.com/seanpm2001/DCalendar/
+https://github.com/seanpm2001/DMail/
+https://github.com/seanpm2001/SNU_2D_DMailClient/
+https://github.com/seanpm2001/DMail_Migrator/
+https://github.com/seanpm2001/DMail_SpamBox/
+https://github.com/seanpm2001/DMail_Tacklebox/
+https://github.com/seanpm2001/TackleBox_Email_Component/
+https://github.com/seanpm2001/SpamBox_Email_Component/
+https://github.com/seanpm2001/Email_Migration_Component/
+
+//// Total: 10
+
+//// Excluded
+//// As of 2023, Sunday, January 15th
+
+https://github.com/seanpm2001/DSuite/
+https://github.com/seanpm2001/DCal-Spec/
+https://github.com/seanpm2001/DCal-Specification/
+https://github.com/seanpm2001/DCal-Implementation/
+
+//// Total: 4
+
+//// Overall total: 14
+
+//// File info
+
+//// File version: 1 (2023, Sunday, January 15th at 4:36 pm PST)
+//// Line count (including blank lines and compiler line): 38
+
+//// End of file
