@@ -1,7 +1,6 @@
 
 ***
 
-
 <div align="center">
   <img alt="DSuite wordmark failed to load. Click/tap here to attempt to view it" src="/DSuite_Wordmark_1080p_V1_HighCompression.png" width="256" class="center"/>
 </div>
@@ -11,6 +10,12 @@
   <p>✉️🗓️♣️ DSuite is a online/offline software suite of productivity software for email and calendars.</p>
   <p>It is the parent of DCal/DCalendar and DMAIL</p>
 </div>
+
+***
+
+## Legend
+
+* Links marked with a :octocat: indicate that the links are directed at GitHub repositories. This is done to distinguish them from future mirrors on sites like GitLab.
 
 ***
 
@@ -41,6 +46,8 @@
 
 - [:octocat: `DMail TackleBox Implementation`](https://github.com/seanpm2001/DMail_Tacklebox/)
 
+- [:octocat: `DMail SpamBox implementation`](https://github.com/seanpm2001/DMail_SpamBox/)
+
 [:octocat: `TackleBox`](https://github.com/seanpm2001/TackleBox_Email_Component/) - TackleBox is a phishing quarantine and detection tool
 
 - [:octocat: `TackleBox Email Component`](https://github.com/seanpm2001/TackleBox_Email_Component/)
@@ -52,6 +59,32 @@
 [:octocat: `Email Migration`](https://github.com/seanpm2001/Email_Migration_Component/) - An email migration component written in D.
 
 - [:octocat: `Email migration component`](https://github.com/seanpm2001/Email_Migration_Component/)
+
+***
+
+### Languages
+
+Most DSuite projects are written in D. The following programming languages are used on the projects:
+
+> **Note** Keep this list in A-Z order
+
+- CSS
+- D
+- Markdown
+- R
+- Red
+- YAML
+
+Language neutrality is in order. When projects start using other languages (say JavaScript) there will be alternative implementations in place in PHP, Ruby, and other languages for each project. There must be at least 3 choices for alternative languages that are widely accepted.
+
+Planned languages:
+
+> **Note** Keep this list in A-Z order
+
+- HTML5
+- JavaScript
+- PHP
+- Ruby
 
 ***
 
@@ -84,9 +117,9 @@ Redirect pages for this project
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Sunday, January 15th at 3:59 pm PST)`
+**File version:** `3 (2023, Sunday, January 15th at 4:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `158`
+**Line count (including blank lines and compiler line):** `213`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -149,6 +182,28 @@ Redirect pages for this project
 - - [x] Added an entry for version 1
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 3 (2023, Sunday, January 15th at 4:55 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added the `Legend` section
+- [x] Updated the `Products` section
+- - [x] Updated the `Email division` subsection
+- - - [x] Added a link to a missing product (DMail SpamBox)
+- [x] Added the `Languages` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
