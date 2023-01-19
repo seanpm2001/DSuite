@@ -15,7 +15,7 @@
 
 ## Legend
 
-* Links marked with a :octocat: indicate that the links are directed at GitHub repositories. This is done to distinguish them from future mirrors on sites like GitLab.
+* Links marked with a :octocat: Emoji indicate that the links are directed at GitHub repositories. This is done to distinguish them from future mirrors on sites like GitLab.
 
 ***
 
@@ -133,7 +133,9 @@ Redirect pages for this project
 
 #### DSuite
 
-- None yet
+- [:octocat: `https://github.com/seanpm2001/D_Suite`](https://github.com/seanpm2001/D_Suite/) - Redirect to: [:octocat: `DSuite`](https://github.com/seanpm2001/DSuite/)
+- [:octocat: `https://github.com/seanpm2001/Digital-Suite`](https://github.com/seanpm2001/Digital-Suite/) - Redirect to: [:octocat: `DSuite`](https://github.com/seanpm2001/DSuite/)
+- [:octocat: `https://github.com/seanpm2001/Digital_Suite`](https://github.com/seanpm2001/Digital_Suite/) - Redirect to: [:octocat: `DSuite`](https://github.com/seanpm2001/DSuite/)
 
 ***
 
@@ -143,9 +145,9 @@ Redirect pages for this project
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Sunday, January 15th at 5:17 pm PST)`
+**File version:** `5 (2023, Wednesday, January 18th at 4:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `259`
+**Line count (including blank lines and compiler line):** `282`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -250,6 +252,27 @@ Redirect pages for this project
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2023, Wednesday, January 18th at 4:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** I was going to get to this yesterday, but I hit my 25 repository/day limit.
+
+> Changes
+
+- [x] Updated the `Redirects` section
+- - [x] Updated the `DSuite` subsection
+- - - [x] Added 3 new redirect links
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
